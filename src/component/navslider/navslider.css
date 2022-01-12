@@ -1,0 +1,22 @@
+.navslider-cotnainer{
+    border: 1px solid #DBDBDB;
+    height: 10rem;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+
+  @media screen and (max-width: 820px) {
+   
+  }
+
+  @media screen and (max-width: 420px) {
+    .navslider-cotnainer{
+
+      height: 9rem;
+      /* margin-top: 1rem; */
+    
+  }
+  
+  }

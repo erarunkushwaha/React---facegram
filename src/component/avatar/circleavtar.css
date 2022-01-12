@@ -1,0 +1,12 @@
+.avtar-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+.avtar-text{
+    margin-top: 2px;
+    font-weight: 400;
+    text-align: center;
+}
